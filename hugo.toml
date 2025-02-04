@@ -1,0 +1,8 @@
+baseURL = "https://jiangskongkian.github.io/"
+languageCode = "zh-cn"
+title = "Hugo Site of Jiang Songjian"
+theme = "PaperMod"
+
+[params]
+  author = "江松建"
+  description = "这是我的技术博客"
